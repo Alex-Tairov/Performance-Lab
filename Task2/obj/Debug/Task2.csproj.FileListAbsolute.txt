@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Performance Lab\Task2\bin\Debug\Task2.exe.config
+C:\Users\USER\Desktop\Performance Lab\Task2\bin\Debug\Task2.exe
+C:\Users\USER\Desktop\Performance Lab\Task2\bin\Debug\Task2.pdb
+C:\Users\USER\Desktop\Performance Lab\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Performance Lab\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Performance Lab\Task2\obj\Debug\Task2.exe
+C:\Users\USER\Desktop\Performance Lab\Task2\obj\Debug\Task2.pdb
